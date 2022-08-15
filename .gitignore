@@ -1,3 +1,4 @@
 # .gitignore file
+# consider using the github's .gitignore template generator
 
 *.exe
